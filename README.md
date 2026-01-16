@@ -1,4 +1,4 @@
-# Diwali Sales Data Analysis 🪔
+# Diwali Sales & Inventory Strategist   🪔
 
 ## 📌 Project Overview
 This project involves a detailed Exploratory Data Analysis (EDA) of sales data during the Diwali festival. The primary objective is to analyze purchasing trends across different demographics (gender, age, occupation) and geographies to help businesses optimize their marketing strategies and inventory management.
